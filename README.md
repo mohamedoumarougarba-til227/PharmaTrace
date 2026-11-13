@@ -64,7 +64,7 @@ Le bootstrap local rejoue **huit migrations**, avec un prérequis historique ; l
 
 ## Contribution, sécurité et support
 
-[CONTRIBUTING](CONTRIBUTING.md) : issues reproductibles, PR ciblées, données fictives et tests. Les contributions externes sont ouvertes ; `main` reste protégé par les rulesets et la CI. [Quatre issues publiques et backlog](docs/backlog.md).
+[CONTRIBUTING](CONTRIBUTING.md) : issues reproductibles, PR ciblées, données fictives et tests. Les contributions externes sont ouvertes ; `main` reste protégé par les rulesets et la CI. [[Quatre issues publiques et backlog]](https://github.com/mohamedoumarougarba-til227/PharmaTrace/issues?utm_source=chatgpt.com).(docs/backlog.md).
 
 [SECURITY](SECURITY.md) fournit un canal privé. Ne publier ni session, ni donnée personnelle, ni preuve exploitable sur le MVP. Support bénévole, sans SLA, usage clinique ou réglementaire validé.
 
