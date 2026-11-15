@@ -87,6 +87,7 @@ function environment() {
     },
     '@supabase/supabase-js': { createClient() { state.sdkCalls++; return client; } },
     'expo-router': { router: { replace() {}, back() {} }, useLocalSearchParams: () => state.routeParams },
+    'expo-router/head': { __esModule: true, default: 'Head' },
     'expo-crypto': { randomUUID: () => 'test-intent-key' },
     'expo-status-bar': { StatusBar: 'StatusBar' },
     'expo-camera': { CameraView: 'CameraView', useCameraPermissions: () => [{ granted: false }, async () => ({ granted: false })] },
