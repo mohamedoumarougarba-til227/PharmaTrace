@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /$
 Allow: /verify
 Allow: /sitemap.xml
 Allow: /robots.txt

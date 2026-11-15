@@ -10,6 +10,7 @@ import {
   useWindowDimensions,
 } from "react-native";
 import { StatusBar } from "expo-status-bar";
+import Head from "expo-router/head";
 import { router } from "expo-router";
 import { CameraView, useCameraPermissions } from "expo-camera";
 import { getBusinessAccess } from "../../lib/businessRole";
@@ -462,7 +463,16 @@ export default function VerifyScreen() {
   const cameraSize = isDesktop ? 340 : 280;
 
   return (
-    <View style={{ flex: 1, backgroundColor: "#0A0F1A" }}>
+    <>
+      <Head>
+        <title>Vérifier un lot de médicament | PharmaTrace</title>
+        <meta name="description" content="Recherchez un lot dans le registre expérimental PharmaTrace par code ou QR. Une correspondance ne garantit pas l’authenticité physique du médicament." />
+        <link rel="canonical" href="https://app.pharmatrace.tilniger.com/verify" />
+        <meta property="og:title" content="Vérifier un lot | PharmaTrace" />
+        <meta property="og:description" content="Recherche publique de lots dans le registre expérimental PharmaTrace." />
+        <meta property="og:url" content="https://app.pharmatrace.tilniger.com/verify" />
+      </Head>
+      <View style={{ flex: 1, backgroundColor: "#0A0F1A" }}>
       <StatusBar style="light" />
       <ScrollView
         contentContainerStyle={{ flexGrow: 1, alignItems: "center" }}
@@ -683,7 +693,8 @@ export default function VerifyScreen() {
           </Text>
         </View>
       </ScrollView>
-    </View>
+      </View>
+    </>
   );
 }
 
