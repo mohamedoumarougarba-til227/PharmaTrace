@@ -1,6 +1,10 @@
 User-agent: *
 Allow: /$
 Allow: /verify
+Allow: /_expo/
+Allow: /assets/
+Allow: /favicon.ico
+Allow: /favicon.png
 Allow: /sitemap.xml
 Allow: /robots.txt
 Disallow: /
