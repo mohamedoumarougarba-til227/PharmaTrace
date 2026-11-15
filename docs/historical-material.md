@@ -1,5 +1,8 @@
 # Documents actuels et archives historiques
 
+**Liens officiels (15 novembre 2026) :** [vitrine](https://pharmatrace.tilniger.com/) · [application](https://app.pharmatrace.tilniger.com/) · [GitHub](https://github.com/mohamedoumarougarba-til227/PharmaTrace). Les anciens `pharmatrace-eta.vercel.app`, `pharmatraceapp.vercel.app` et `mohamedoumarougarba-til-227` restent dans certains checkpoints datés et documents historiques. Ils ne sont plus les références d'accès présentes ; voir [versions et APK](releases.md). Ne pas réécrire les livrables historiques.
+
+
 La documentation active est le README, CONTRIBUTING, SECURITY et les guides installation/architecture/database/testing. Les rapports `lot-*` et `phase-1-*` conservent des constats datés : leur état « candidate / non appliquée » décrit leur checkpoint, pas le déploiement présent. Le rapport final de phase 1 fait foi pour la livraison métier.
 
 `ressources/docs/PHASE_1_PRESELECTION`, `PHASE_2_DEMIFINAL`, `PHASE_3_FINALE`, scripts de vidéo et maquettes documentent le MIABE Hackathon. Ils peuvent contenir des intentions blockchain, statistiques non étayées, anciens libellés ou objectifs non implémentés. Ils ne décrivent pas les garanties de la version actuelle. Les PDFs et vidéos ne sont pas réécrits pour simuler une conformité historique.

@@ -4,7 +4,7 @@ PharmaTrace est un MVP expérimental de gestion et traçabilité de lots de méd
 
 ## Provenance
 
-- PR intégrée : [nº 1](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/pull/1), par merge commit, sans squash ni réécriture.
+- PR intégrée : [nº 1](https://github.com/mohamedoumarougarba-til227/PharmaTrace/pull/1), par merge commit, sans squash ni réécriture.
 - Commit de main : `9a18cf85aa7ff396e8fd65eceed918a5e2aed249`, signé et vérifié par GitHub ; les 11 commits de préparation sont conservés.
 - Tag annoté signé : `v1.1.0-preview.1`, ciblant ce commit.
 - Client web : `dpl_9A3fGoycXNgEU9HByDxsMcQBArPH`, construit depuis ce main.
@@ -21,7 +21,7 @@ PharmaTrace est un MVP expérimental de gestion et traçabilité de lots de méd
 ## Validation réellement effectuée
 
 - CI Linux / Node 22 : installation verrouillée, **95/95 tests**, TypeScript, contrôles publics (**178 chemins, 90 liens**), export de **34 routes**, contrôle du bundle et diff.
-- Exécutions : [push de préparation](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/actions/runs/41940363436), [pull_request](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/actions/runs/41940429863), [main après fusion](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/actions/runs/42102309187), toutes réussies.
+- Exécutions : [push de préparation](https://github.com/mohamedoumarougarba-til227/PharmaTrace/actions/runs/41940363436), [pull_request](https://github.com/mohamedoumarougarba-til227/PharmaTrace/actions/runs/41940429863), [main après fusion](https://github.com/mohamedoumarougarba-til227/PharmaTrace/actions/runs/42102309187), toutes réussies.
 - Production : recherche publique réelle sans résultat, panne RPC simulée côté navigateur, correspondance démo explicitement simulée, navigation des trois rôles en démo ; sept textes légaux identiques au commit et ressources JS/CSS accessibles.
 - Vitrine : HTML et images servis conformes aux sources ; contrôles des crédits, liens, ressources et rendu mobile/desktop.
 - Preuves SQL et HTTP du gate métier antérieur conservées : 104 assertions métier, 30 P02, 60 B2, 46 HTTP et concurrence PostgreSQL réelle. **Ces assertions SQL ne sont pas exécutées dans la CI publique**, et aucune migration n’est réappliquée par cette release.
@@ -38,11 +38,13 @@ P16/P17 restent PARTIAL : risques de dépendances et shims documentés, sans mis
 
 ## Essayer et contribuer
 
-- [Application](https://pharmatraceapp.vercel.app/) · [Vitrine](https://pharmatrace-eta.vercel.app/)
-- [README](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/README.md) · [Installation isolée](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/docs/installation.md)
-- [Contribuer](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/CONTRIBUTING.md) · [Sécurité](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/SECURITY.md) · [Issues](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/issues)
-- [LICENSE](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/LICENSE) · [NOTICE](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/NOTICE) · [Droits tiers](https://github.com/mohamedoumarougarba-til-227/PharmaTrace/blob/main/THIRD_PARTY_NOTICES.md)
+*Liens de navigation actualisés le 15 novembre 2026 ; les SHA, déploiements et constats de la release de novembre 5 restent historiques.*
+
+- [Application](https://app.pharmatrace.tilniger.com/) · [Vitrine](https://pharmatrace.tilniger.com/)
+- [README](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/README.md) · [Installation isolée](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/docs/installation.md)
+- [Contribuer](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/CONTRIBUTING.md) · [Sécurité](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/SECURITY.md) · [Issues](https://github.com/mohamedoumarougarba-til227/PharmaTrace/issues)
+- [LICENSE](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/LICENSE) · [NOTICE](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/NOTICE) · [Droits tiers](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/main/THIRD_PARTY_NOTICES.md)
 
 Utiliser des données fictives et son propre environnement isolé, jamais les comptes ou le Supabase MVP du propriétaire. Français principal ; contributions ciblées et reproductibles bienvenues. Certains documents de préparation versionnés conservent leur état daté de gate ; ces notes décrivent la publication effective.
 
-Crédits historiques : Mohamed Oumarou Garba, Mahamadou Garba Zakou et Abdoul Raouf Harouna Moussa ; TrustGrid, Niger, MIABE Hackathon 2026. Aucun partenariat institutionnel officiel n’est déduit de ce contexte.
+Crédits historiques : [Mohamed Oumarou Garba](https://github.com/mohamedoumarougarba-til227), [Mahamadou Garba Zakou](https://github.com/MahamadouG0) et [Abdoul Raouf Harouna Moussa](https://github.com/AbdoulRaouf2005) ; TrustGrid, Niger, MIABE Hackathon 2026. Aucun partenariat institutionnel officiel n’est déduit de ce contexte.

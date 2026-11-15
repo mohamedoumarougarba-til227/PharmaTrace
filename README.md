@@ -8,6 +8,8 @@ Fabricants, pharmacies et rôle de supervision DPH disposent d’interfaces mét
 
 > **Préversion publiée le 5 novembre 2026 : [v1.1.0-preview.1](https://github.com/mohamedoumarougarba-til227/PharmaTrace/releases/tag/v1.1.0-preview.1)**, issue du merge signé `9a18cf85aa7ff396e8fd65eceed918a5e2aed249`. Application et vitrine en production : [Versions](docs/releases.md). **Licence Apache-2.0** pour le code original et les créations originales dont les droits sont établis : [LICENSE](LICENSE), [NOTICE](NOTICE) et [périmètre](docs/licensing.md). Les éléments tiers et archives à droits incertains ne sont pas re-licenciés.
 
+**Accès officiels (novembre 2026)** : [vitrine](https://pharmatrace.tilniger.com/) et [application](https://app.pharmatrace.tilniger.com/). Les variantes `www` redirigent vers ces URL. Les anciens alias `vercel.app` conservés dans les rapports datés ne sont pas les domaines à diffuser.
+
 ## Fonctions
 
 | Interface | Fonctions |
@@ -53,8 +55,8 @@ La CI publique exécute ces contrôles sans credentials ni base distante : [exé
 
 ## Structure et limites
 
-- `app/PharmaTrace/` : Expo SDK 54, React Native 0.81, React 19, Expo Router, NativeWind, Supabase Auth/PostgreSQL/RLS/RPC.
-- `landing/` : vitrine HTML/CSS/JS existante.
+- `app/PharmaTrace/` : Expo SDK 54, React Native 0.81, React 19, Expo Router, NativeWind, Supabase Auth/PostgreSQL/RLS/RPC ; application Web sur le sous-domaine officiel.
+- `landing/` : vitrine HTML/CSS/JS, déployée automatiquement sur Vercel depuis le dépôt GitHub (`main`).
 - `docs/` : documentation actuelle et checkpoints datés.
 - `ressources/` : archives MIABE, médias et design, avec droits distincts.
 
@@ -64,7 +66,7 @@ Le bootstrap local rejoue **huit migrations**, avec un prérequis historique ; l
 
 ## Contribution, sécurité et support
 
-[CONTRIBUTING](CONTRIBUTING.md) : issues reproductibles, PR ciblées, données fictives et tests. Les contributions externes sont ouvertes ; `main` reste protégé par les rulesets et la CI. [[Quatre issues publiques et backlog]](https://github.com/mohamedoumarougarba-til227/PharmaTrace/issues?utm_source=chatgpt.com).(docs/backlog.md).
+[CONTRIBUTING](CONTRIBUTING.md) : issues reproductibles, PR ciblées, données fictives et tests. Les contributions externes sont ouvertes ; `main` reste protégé par les rulesets et la CI. [Issues publiques](https://github.com/mohamedoumarougarba-til227/PharmaTrace/issues) · [Backlog](docs/backlog.md).
 
 [SECURITY](SECURITY.md) fournit un canal privé. Ne publier ni session, ni donnée personnelle, ni preuve exploitable sur le MVP. Support bénévole, sans SLA, usage clinique ou réglementaire validé.
 
@@ -72,8 +74,8 @@ Le bootstrap local rejoue **huit migrations**, avec un prérequis historique ; l
 
 | Membre historique | Contribution historique |
 | --- | --- |
-| Mohamed Oumarou Garba | Coordination, produit, UI/UX, QA et présentation. |
-| Mahamadou Garba Zakou | Backend, Supabase et identifiants SHA-256. |
-| Abdoul Raouf Harouna Moussa | Frontend, React Native et QR. |
+| [Mohamed Oumarou Garba](https://github.com/mohamedoumarougarba-til227) | Coordination, produit, UI/UX, QA et présentation. |
+| [Mahamadou Garba Zakou](https://github.com/MahamadouG0) | Backend, Supabase et identifiants SHA-256. |
+| [Abdoul Raouf Harouna Moussa](https://github.com/AbdoulRaouf2005) | Frontend, React Native et QR. |
 
-L’accord de l’équipe pour l’ouverture est acquis. Crédits TrustGrid et MIABE conservés ; droits tiers distincts. [Crédits](CREDITS.md) · [Changelog](CHANGELOG.md) · [Versions / ancien APK](docs/releases.md)
+L’accord de l’équipe pour l’ouverture est acquis. Crédits TrustGrid et MIABE conservés ; droits tiers distincts. [Crédits](CREDITS.md) · [Changelog](CHANGELOG.md) · [Versions, domaines et APK historique](docs/releases.md)
