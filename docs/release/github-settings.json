@@ -1,7 +1,17 @@
 {
-  "description": "MVP expérimental de gestion et traçabilité de lots de médicaments, développé au Niger par TrustGrid dans le contexte du MIABE Hackathon.",
-  "homepage": "https://pharmatraceapp.vercel.app/",
-  "topics": ["niger", "medicine-traceability", "inventory-management", "expo", "react-native", "supabase", "postgresql", "hackathon", "experimental"],
+  "description": "PharmaTrace — MVP expérimental de traçabilité des lots de médicaments (TrustGrid, Niger, MIABE 2026). Vitrine et application Web.",
+  "homepage": "https://pharmatrace.tilniger.com/",
+  "topics": [
+    "niger",
+    "medicine-traceability",
+    "inventory-management",
+    "expo",
+    "react-native",
+    "supabase",
+    "postgresql",
+    "hackathon",
+    "experimental"
+  ],
   "pull_request_creation_policy": "all",
   "private_vulnerability_reporting": "enable_after_final_approval",
   "secret_scanning": "enable_after_final_approval",

@@ -10,7 +10,7 @@ La préversion source v1.1.0-preview.1 est disponible sous Apache-2.0. Elle réu
 
 Nous documentons aussi les limites : une correspondance au registre n’authentifie pas physiquement une boîte ; un QR peut être copié. Aucune blockchain opérationnelle ni certification médicale ou réglementaire n’est revendiquée. Dépendances P16/P17, Android/caméra, deep-link et conditions d’utilisation réelle restent des travaux ouverts.
 
-Crédits historiques : Mohamed Oumarou Garba, Mahamadou Garba Zakou et Abdoul Raouf Harouna Moussa — TrustGrid, MIABE 2026. Les retours reproductibles et contributions ciblées sont bienvenus.
+Crédits historiques : [Mohamed Oumarou Garba](https://github.com/mohamedoumarougarba-til227), [Mahamadou Garba Zakou](https://github.com/MahamadouG0) et [Abdoul Raouf Harouna Moussa](https://github.com/AbdoulRaouf2005) — TrustGrid, MIABE 2026. Les retours reproductibles et contributions ciblées sont bienvenus.
 
 [Sources et documentation](https://github.com/mohamedoumarougarba-til227/PharmaTrace) · [Préversion](https://github.com/mohamedoumarougarba-til227/PharmaTrace/releases/tag/v1.1.0-preview.1) · [Application](https://app.pharmatrace.tilniger.com/) · [Vitrine](https://pharmatrace.tilniger.com/)
 
