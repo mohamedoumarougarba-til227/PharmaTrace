@@ -12,7 +12,7 @@ Nous documentons aussi les limites : une correspondance au registre n’authenti
 
 Crédits historiques : Mohamed Oumarou Garba, Mahamadou Garba Zakou et Abdoul Raouf Harouna Moussa — TrustGrid, MIABE 2026. Les retours reproductibles et contributions ciblées sont bienvenus.
 
-[Sources et documentation](https://github.com/mohamedoumarougarba-til227/PharmaTrace) · [Préversion](https://github.com/mohamedoumarougarba-til227/PharmaTrace/releases/tag/v1.1.0-preview.1) · [Application](https://pharmatraceapp.vercel.app/) · [Vitrine](https://pharmatrace-eta.vercel.app/)
+[Sources et documentation](https://github.com/mohamedoumarougarba-til227/PharmaTrace) · [Préversion](https://github.com/mohamedoumarougarba-til227/PharmaTrace/releases/tag/v1.1.0-preview.1) · [Application](https://app.pharmatrace.tilniger.com/) · [Vitrine](https://pharmatrace.tilniger.com/)
 
 ## Message court — développeurs et communautés
 
