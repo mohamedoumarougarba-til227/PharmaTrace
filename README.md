@@ -4,7 +4,7 @@
 
 Fabricants, pharmacies et rôle de supervision DPH disposent d’interfaces métier. Le public recherche un lot par identifiant. Une correspondance décrit le registre ; elle ne garantit pas l’authenticité physique d’une boîte. Un QR peut être copié. Le MVP n’implémente pas de blockchain ni de certification officielle.
 
-[Application](https://pharmatraceapp.vercel.app/) · [Rechercher un lot](https://pharmatraceapp.vercel.app/verify) · [Vitrine existante](https://pharmatrace-eta.vercel.app/) · [Installer](docs/installation.md) · [Contribuer](CONTRIBUTING.md)
+[Application](https://app.pharmatrace.tilniger.com/) · [Rechercher un lot](https://app.pharmatrace.tilniger.com/verify) · [Vitrine](https://pharmatrace.tilniger.com/) · [Installer](docs/installation.md) · [Contribuer](CONTRIBUTING.md)
 
 > **Préversion publiée le 5 novembre 2026 : [v1.1.0-preview.1](https://github.com/mohamedoumarougarba-til227/PharmaTrace/releases/tag/v1.1.0-preview.1)**, issue du merge signé `9a18cf85aa7ff396e8fd65eceed918a5e2aed249`. Application et vitrine en production : [Versions](docs/releases.md). **Licence Apache-2.0** pour le code original et les créations originales dont les droits sont établis : [LICENSE](LICENSE), [NOTICE](NOTICE) et [périmètre](docs/licensing.md). Les éléments tiers et archives à droits incertains ne sont pas re-licenciés.
 

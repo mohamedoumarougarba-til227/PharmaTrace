@@ -1,5 +1,14 @@
 # Éléments tiers : inventaire et traitement
 
+## Mise à jour du 15 novembre 2026 — portraits TrustGrid autorisés
+
+Le propriétaire du dépôt a transmis à nouveau les trois portraits et déclare disposer de l'accord de **Mohamed Oumarou Garba, Mahamadou Garba Zakou et Abdoul Raouf Harouna Moussa** pour leur publication sur la vitrine PharmaTrace. La déclaration est enregistrée comme autorisation fournie par le responsable du projet ; aucune pièce de consentement signée ni preuve de cession des droits du photographe n'est revendiquée dans ce dépôt.
+
+Les fichiers transmis correspondent **octet pour octet** aux blobs déjà présents dans l'historique du dépôt (SHA Git : Mohamed `2568b6446f2f36c38d5a09c041636d96446e911e`, Mahamadou `c1267954bfee7578d39a79805bd68005c3fe5c55`, Abdoul Raouf `aa68c2175a17dd215677d994962e8fba65809d82`). Leur restitution dans `landing/images/team-*` ne récupère ni les archives ni les autres médias précédemment exclus.
+
+Les paragraphes relatifs aux initiales ci-dessous décrivent le **checkpoint de publication du 5 novembre**, et non l'état actualisé de la vitrine après intégration de la PR dédiée. Les photos sont utilisées pour identifier les contributeurs de cette équipe seulement ; le reste du traitement des droits tiers reste inchangé.
+
+
 Inventaire initial de 60 fichiers (235 330 866 octets, doublons compris), empreintes complètes dans [assets-inventory.json](assets-inventory.json). Les deux vidéos non suivies sont incluses dans l’inventaire de préservation, pas ajoutées à Git.
 
 **Consentement équipe DONE**, sans nouvelle autorisation demandée. Le copyright des contributions originales ne règle pas celui d’un photographe, d’une photo embarquée ou des consignes d’organisateurs. Aucun élément n’est déclaré incompatible sans preuve : les fichiers du manifeste à provenance incomplète ont été retirés du suivi local pour préparer le snapshot source, sans suppression physique.
