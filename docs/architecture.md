@@ -16,7 +16,7 @@ Expo SDK 54, React Native 0.81, React 19, Expo Router et NativeWind. Supabase es
 
 `businessWorkflows.ts` transmet une intention, jamais un acteur, verdict ou calcul de stock client. Les RPC imposent propriété, destinataire, transitions, demande associée, conservation, verrouillage et retry idempotent. Écritures brutes historiques fermées ou no-op selon B2. La base reste administrable : SHA-256 identifie, sans signature fabricant, preuve physique ou chaîne de blocs immuable.
 
-La démo est un adaptateur local en mémoire, signalé par bandeau ; elle ne valide ni Auth/RLS, ni persistance, ni toutes les transactions. Les écritures métier sont désactivées. Vitrine statique indépendante. PDFs/designs MIABE historiques ; rapports `lot-*` et `phase-1-*` datés, sans exécution automatique.
+La démo est un adaptateur local en mémoire, signalé par bandeau ; elle ne valide ni Auth/RLS, ni persistance, ni toutes les transactions. Les écritures métier sont désactivées. Vitrine statique indépendante. PDFs/designs MIABE conservés dans `ressources/`. Les rapports des chantiers clôturés sont consultables dans l’historique Git, sans exécution automatique.
 
 ## Shims
 

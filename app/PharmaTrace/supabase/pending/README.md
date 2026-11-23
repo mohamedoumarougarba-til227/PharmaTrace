@@ -13,4 +13,4 @@ est testée par `tests/p03b2_legacy_compat.sql` (60 assertions) et les tests HTT
 Pour la validation installée, utiliser
 `node scripts/prepare-lot03b2-rehearsal.cjs --installed` et exécuter le SQL généré
 sur le projet autorisé. Ce SQL annule toutes ses fixtures avant de rendre les résultats.
-Voir [le rapport B2](../../../../docs/lot-03b2-restriction.md).
+Voir [le rapport B2](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/110e97e1c5d3853e86834a59627262e0ddfd4f80/docs/lot-03b2-restriction.md).

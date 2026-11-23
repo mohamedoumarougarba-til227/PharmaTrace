@@ -2,7 +2,7 @@
 
 ## Démo locale
 
-Git, Node.js 22 LTS, npm et navigateur. Aucun Docker/PostgreSQL local requis. Se placer dans `app/PharmaTrace` ; le package racine historique ne démarre pas l’application.
+Git, Node.js 22 LTS, npm et navigateur. Aucun Docker/PostgreSQL local requis. Se placer dans `app/PharmaTrace`, qui contient le package applicatif et son lockfile. Le package racine historique inutilisé a été retiré.
 
 ```sh
 npm ci

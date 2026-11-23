@@ -1,6 +1,6 @@
-# Licence Apache-2.0 — décision appliquée localement
+# Licence Apache-2.0 — périmètre et crédits
 
-Le **4 novembre 2026**, Mohamed Oumarou Garba, responsable du projet, a retenu **Apache License 2.0 pour le code original de PharmaTrace et les créations originales dont les droits sont établis**. Le texte canonique non modifié est installé dans [LICENSE](../LICENSE), les mentions de copyright et crédits dans [NOTICE](../NOTICE). Cette décision n’autorise ni publication de la branche, ni modification de GitHub, Supabase ou Vercel.
+Le **4 novembre 2026**, Mohamed Oumarou Garba, responsable du projet, a retenu **Apache License 2.0 pour le code original de PharmaTrace et les créations originales dont les droits sont établis**. Le texte canonique non modifié est installé dans [LICENSE](../LICENSE), les mentions de copyright et crédits dans [NOTICE](../NOTICE). La préversion source est publiée ; les composants tiers conservent leurs propres droits et licences.
 
 **Consentement équipe DONE** : Raouf et Mahamadou ont accepté l’ouverture et la poursuite des contributions avec maintien des crédits. Ce sujet n’est plus bloquant. Les droits tiers sont séparés.
 
@@ -22,8 +22,8 @@ Apache-2.0 facilite la réutilisation du MVP tout en encadrant notices et contri
 
 Le projet distinct **Z-Score Niger conserve sa licence GPLv3** ; cette décision PharmaTrace ne la modifie pas.
 
-Les fichiers de [proposition initiale](proposals/LICENSE-Apache-2.0.txt) et de [NOTICE proposé](proposals/NOTICE-Apache-2.0.txt) restent une trace de préparation. Les fichiers racine LICENSE et NOTICE font désormais référence. Aucune nouvelle décision de licence ou de consentement des membres n’est nécessaire.
+Les fichiers de [proposition initiale](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/110e97e1c5d3853e86834a59627262e0ddfd4f80/docs/proposals/LICENSE-Apache-2.0.txt) et de [NOTICE proposé](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/110e97e1c5d3853e86834a59627262e0ddfd4f80/docs/proposals/NOTICE-Apache-2.0.txt) restent une trace de préparation. Les fichiers racine LICENSE et NOTICE font désormais référence. Aucune nouvelle décision de licence ou de consentement des membres n’est nécessaire.
 
-Le [plan de publication](release-plan.md) distingue le gate 3B local, exécuté pour les 46 chemins après autorisation, du futur gate 3C de push/Draft PR. Aucun fichier n’est supprimé physiquement et l’historique n’est pas réécrit. La publication elle-même attend un feu vert distinct.
+La préversion source est publiée depuis le 5 novembre 2026. Le [plan de publication historique](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/110e97e1c5d3853e86834a59627262e0ddfd4f80/docs/release-plan.md) reste consultable dans Git. Ses gates terminés ne sont plus des opérations à exécuter ; les fichiers préparatoires et les copies techniques locales ont été retirés le 23 novembre 2026.
 
 Sources officielles consultées le 3 novembre 2026 : [MIT](https://opensource.org/license/mit), [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0), [FAQ Apache](https://www.apache.org/foundation/license-faq), [GPL-3.0](https://opensource.org/license/gpl-3.0).

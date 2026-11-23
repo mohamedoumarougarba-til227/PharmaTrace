@@ -16,7 +16,7 @@ Crédits historiques : [Mohamed Oumarou Garba](https://github.com/mohamedoumarou
 
 ## Message court — développeurs et communautés
 
-Bonjour ! PharmaTrace est un MVP expérimental open source développé au Niger par TrustGrid, dans le contexte du MIABE Hackathon 2026 : Expo/React Native, Supabase/PostgreSQL, interfaces multirôles et gestion transactionnelle des lots/stocks. La préversion v1.1.0-preview.1 est publiée sous Apache-2.0. La CI exécute 95 tests Node, TypeScript et export web ; les preuves SQL sont distinctes et Android/caméra n’a pas été validé physiquement. Nous cherchons des retours sur l’installation et l’accessibilité. Une correspondance au registre ne certifie pas une boîte. [Découvrir et contribuer](https://github.com/mohamedoumarougarba-til227/PharmaTrace).
+Bonjour ! PharmaTrace est un MVP expérimental open source développé au Niger par TrustGrid, dans le contexte du MIABE Hackathon 2026 : Expo/React Native, Supabase/PostgreSQL, interfaces multirôles et gestion transactionnelle des lots/stocks. La préversion v1.1.0-preview.1 est publiée sous Apache-2.0. La CI exécute 99 tests Node, TypeScript et export web ; les preuves SQL sont distinctes et Android/caméra n’a pas été validé physiquement. Nous cherchons des retours sur l’installation et l’accessibilité. Une correspondance au registre ne certifie pas une boîte. [Découvrir et contribuer](https://github.com/mohamedoumarougarba-til227/PharmaTrace).
 
 ## Quatre issues — contributions recherchées
 

@@ -1,6 +1,6 @@
 # Éléments tiers et attributions
 
-Le code original et les créations originales de PharmaTrace dont les droits sont établis sont sous [Apache-2.0](LICENSE), avec les crédits du [NOTICE](NOTICE). Ce document préserve les notices tierces et ne re-licencie pas leurs œuvres. Les photographies, portraits, archives, documents d’organisateurs, marques et autres ressources à droits distincts ou incertains ne sont pas inclus par défaut dans cette concession ; voir le [périmètre](docs/licensing.md) et l’[inventaire](docs/assets-rights.md). Les 46 chemins du manifeste ont été retirés du suivi local au gate 3B le 5 novembre 2026, avec originaux et sauvegardes vérifiés ; le manifeste reste publié comme inventaire, sans push de la branche à ce stade.
+Le code original et les créations originales de PharmaTrace dont les droits sont établis sont sous [Apache-2.0](LICENSE), avec les crédits du [NOTICE](NOTICE). Ce document préserve les notices tierces et ne re-licencie pas leurs œuvres. Les photographies, portraits, archives, documents d’organisateurs, marques et autres ressources à droits distincts ou incertains ne sont pas inclus par défaut dans cette concession ; voir le [périmètre](docs/licensing.md) et l’[inventaire](docs/assets-rights.md). Les 46 chemins du manifeste ont été retirés du suivi local au gate 3B le 5 novembre 2026, avec originaux et sauvegardes vérifiés ; le manifeste conserve la provenance de ce retrait. Les copies techniques de préparation ont été nettoyées le 23 novembre 2026 ; les livrables de l’équipe restent dans `ressources/`.
 
 ## Dépendances applicatives
 
@@ -18,7 +18,7 @@ L’export ZIP historique contient un `ATTRIBUTIONS.md` mentionnant shadcn/ui (M
 
 Les nouveaux SVG du sprint sont originaux, rendus en PNG sans image ni police tierce embarquée ; leurs contributions originales sont couvertes par Apache-2.0 et le copyright du NOTICE. La vitrine emploie les polices système, sans téléchargement Google Fonts. Les captures sont issues de l’application locale avec données fictives et simulation affichée ; les composants tiers visibles conservent leurs propres licences.
 
-Portraits : ni licence du photographe ni autorisation distincte d’usage d’image établies ; l’accord des contributions de code n’est pas assimilé à ces droits. Documents d’organisateurs MIABE : aucune permission de redistribution retrouvée. Les anciens fichiers du manifeste restent intacts localement et sauvegardés ; le [plan de publication](docs/release-plan.md) constate leur retrait ciblé du suivi, sans effacer l’historique.
+Portraits : ni licence du photographe ni autorisation distincte d’usage d’image établies ; l’accord des contributions de code n’est pas assimilé à ces droits. Documents d’organisateurs MIABE : aucune permission de redistribution retrouvée. Le manifeste décrit le retrait historique du suivi ; les livrables de l’équipe sont conservés dans `ressources/`, tandis que les copies techniques de préparation ont été supprimées le 23 novembre 2026 ; le [plan de publication](https://github.com/mohamedoumarougarba-til227/PharmaTrace/blob/110e97e1c5d3853e86834a59627262e0ddfd4f80/docs/release-plan.md) constate leur retrait ciblé du suivi, sans effacer l’historique.
 
 [Inventaire fichier par fichier](docs/assets-rights.md) et manifeste complet de provenance : `docs/assets-inventory.json`.
 
