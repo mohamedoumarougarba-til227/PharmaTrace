@@ -1,5 +1,9 @@
 # Éléments tiers : inventaire et traitement
 
+## Nettoyage local — 23 novembre 2026
+
+Les livrables de l’équipe dans `ressources/` et les images actives de la vitrine sont conservés. Les preuves techniques locales, anciennes copies de travail et sauvegardes de préparation ont été supprimées à la demande du propriétaire. Les inventaires et empreintes ci-dessous restent des relevés historiques ; ils ne certifient pas la présence actuelle de chaque copie ou sauvegarde. Les rapports retirés du dossier courant restent consultables dans l’historique Git. Aucun droit ni crédit n’est modifié par ce nettoyage.
+
 ## Mise à jour du 15 novembre 2026 — portraits TrustGrid autorisés
 
 Le propriétaire du dépôt a transmis à nouveau les trois portraits et déclare disposer de l'accord de **Mohamed Oumarou Garba, Mahamadou Garba Zakou et Abdoul Raouf Harouna Moussa** pour leur publication sur la vitrine PharmaTrace. La déclaration est enregistrée comme autorisation fournie par le responsable du projet ; aucune pièce de consentement signée ni preuve de cession des droits du photographe n'est revendiquée dans ce dépôt.

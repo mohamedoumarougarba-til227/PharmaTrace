@@ -1,5 +1,0 @@
-{
-  "description": "PharmaTrace — MVP expérimental de traçabilité des lots de médicaments (TrustGrid, Niger, MIABE 2026). Vitrine et application Web.",
-  "homepage": "https://pharmatrace.tilniger.com/",
-  "pull_request_creation_policy": "all"
-}

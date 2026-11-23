@@ -23,4 +23,4 @@ P06/P07/P08/P09 sont clos au gate métier validé. Pas de nouveau lot de hardeni
 - [nº 4 — clavier et focus de la vitrine](https://github.com/mohamedoumarougarba-til227/PharmaTrace/issues/4), `good first issue` : menu mobile existant, aucune nouvelle landing.
 - [nº 5 — triage P16/P17](https://github.com/mohamedoumarougarba-til227/PharmaTrace/issues/5), suivi distinct des dépendances, sans label de première tâche et sans minimiser les risques.
 
-Les corps préparatoires restent dans `docs/release/issues/` pour traçabilité ; ne pas recréer ces issues en double. Aucun signalement sensible n’est transformé en première tâche. Voir [CONTRIBUTING](../CONTRIBUTING.md) et [SECURITY](../SECURITY.md).
+Les quatre issues publiques ci-dessus servent de référence ; leurs anciens brouillons locaux ont été retirés lors du nettoyage du 23 novembre 2026. Ne pas recréer ces issues en double. Aucun signalement sensible n’est transformé en première tâche. Voir [CONTRIBUTING](../CONTRIBUTING.md) et [SECURITY](../SECURITY.md).
